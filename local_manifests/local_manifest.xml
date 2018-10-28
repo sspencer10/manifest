@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="sspencer10"
+           fetch="https://github.com/sspencer10" />
+
+  <!-- Steve's Stuff -->
+  <project path="kernel/google/marlin" name="hellspawn_kernel_pixel" remote="sspencer10" revision="p" />
+  <project path="packages/apps/PixelDustSettings" name="android_packages_apps_PixelDustSettings" remote="sspencer10" revision="p" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="sspencer10" revision="p" />
+  <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="sspencer10" revision="p" />
+  
+</manifest>
