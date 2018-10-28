@@ -1,11 +1,11 @@
-Pixel Dust Project Manifest
+Project Manifest
 ===========================
 
 ## Initializing Repo ##
 
 To initialize your local repository use
 
-    repo init -u https://github.com/pixeldustproject-p/manifest.git -b p
+    repo init -u https://github.com/sspencer10/manifest.git -b p
     
 Then to sync up:
 
