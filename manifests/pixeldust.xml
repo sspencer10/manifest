@@ -68,6 +68,6 @@
   <project path="packages/apps/PixelDustSettings" name="android_packages_apps_PixelDustSettings" remote="sspencer10" revision="p" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="sspencer10" revision="p" />
   <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="sspencer10" revision="p" />
-  <project path="art" name="art" remote="sspencer10" revision="android-9.0.0_r10-v2" />
+  <project path="art" name="art" remote="sspencer10" revision="android-9.0.0_r16-v2" />
   <project path="packages/apps/OmniRecord" name="omnirom/android_packages_apps_OmniRecord" remote="gh" revision="android-9.0" />
 </manifest>
