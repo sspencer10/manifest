@@ -33,6 +33,7 @@
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="pdp" />
   <project path="external/perfetto" name="android_external_perfetto" remote="pdp" />
   <project path="external/selinux" name="android_external_selinux" remote="pdp" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="pdp" />
   <project path="frameworks/av" name="android_frameworks_av" remote="pdp" />
   <project path="frameworks/native" name="android_frameworks_native" remote="pdp" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdp" />
@@ -69,5 +70,4 @@
   <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="sspencer10" revision="p" />
   <project path="art" name="art" remote="sspencer10" revision="android-9.0.0_r10-v2" />
   <project path="packages/apps/OmniRecord" name="omnirom/android_packages_apps_OmniRecord" remote="gh" revision="android-9.0" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="sspencer10" revision="p" />
 </manifest>
